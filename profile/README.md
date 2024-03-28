@@ -51,7 +51,7 @@ New to Spiceroad Online development? Get started by checking the README file in 
 
 ## 🤝 How to Contribute
 
-Whether you're fixing bugs, adding features, or just giving suggestions, we welcome all forms of contributions. Check our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to make your mark.
+Whether you're fixing bugs, adding features, or just giving suggestions, we welcome all forms of contributions. Check our [CONTRIBUTING.md](profile/CONTRIBUTING.md) for guidelines on how to make your mark.
 
 ## 🗣️ Join the Conversation
 
@@ -63,7 +63,7 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 
 ## 📜 License
 
-Distributed under the [MIT License](LICENSE). See `LICENSE` for more information.
+Distributed under the Spiceroad Restricted Use License (SRUL). See [LICENSE](profile/LICENSE.txt) for more information.
 
 ## 📫 Contact
 

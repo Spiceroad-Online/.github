@@ -17,7 +17,9 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 
 ## 🌳 Components
 
-- [![Server](https://img.shields.io/badge/Server-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/server) ![Version](https://img.shields.io/github/v/release/Spiceroad-Online/server?style=flat-square) [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager&style=flat-square)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+- [![Server](https://img.shields.io/badge/Server-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/server) ![Version](https://img.shields.io/github/v/release/Spiceroad-Online/server?style=flat-square) [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/spiceroad-online/server/publish-release?branch=main&style=flat-square)
+
   - `🖥️ Server Manager` - Advanced tools for seamless server management.
 - [![Client](https://img.shields.io/badge/Client-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/client)
   - `🎮 Game Client` - A revamped launcher for an enhanced user experience.

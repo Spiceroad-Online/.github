@@ -5,6 +5,7 @@
 ![Followers](https://img.shields.io/github/followers/spiceroad-online)
 ![Donate](https://img.shields.io/badge/5%24-5ddca3?style=social&label=%F0%9F%90%8F%20Buy%20me%20a%20RAM&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque)
 ![Static Badge](https://img.shields.io/badge/5%24-green?style=social&label=Buy%20us%20a%20RAM&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque)
+[![Buy Me A Coffee](https://img.shields.io/badge/5%24-5ddca3?style=social&label=%F0%9F%90%8F%20Buy%20me%20a%20RAM&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque)](https://www.buymeacoffee.com/Mitzesque)
 
 Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the mystique of the ancient Silk Road. Explore vast landscapes, engage in thrilling combats, and immerse yourself in the rich culture and history that our game offers. Our GitHub is the heart of our development, showcasing the magic behind the scenes.
 

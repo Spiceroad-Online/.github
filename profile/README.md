@@ -63,7 +63,7 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 
 ## 📜 License
 
-Distributed under the Spiceroad Restricted Use License (SRUL). See [LICENSE](profile/LICENSE.txt) for more information.
+Distributed under the Spiceroad Restricted Use License (SRUL). See [LICENSE](profile/LICENSE) for more information.
 
 ## 📫 Contact
 

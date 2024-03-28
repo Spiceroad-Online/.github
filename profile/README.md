@@ -12,16 +12,16 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 - `📈 Complex Economy & Trade System` reflecting the real Silk Road
 - `👥 Vibrant Community` of adventurers and developers
 
+## Components
+
+- [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+
 ## 🛠️ Build With
 
 - ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-ff69b4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-00599C.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-## Components
-
-- [![Server](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
 
 ## 🚀 Quick Start
 

@@ -51,7 +51,7 @@ New to Spiceroad Online development? Get started by checking the README file in 
 
 ## 🤝 How to Contribute
 
-Whether you're fixing bugs, adding features, or just giving suggestions, we welcome all forms of contributions. Check our [CONTRIBUTING.md](profile/CONTRIBUTING.md) for guidelines on how to make your mark.
+Whether you're fixing bugs, adding features, or just giving suggestions, we welcome all forms of contributions. Check our [CONTRIBUTING](profile/CONTRIBUTING.md) for guidelines on how to make your mark.
 
 ## 🗣️ Join the Conversation
 

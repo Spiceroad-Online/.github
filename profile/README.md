@@ -16,10 +16,10 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 
 ## 🌳 Components
 
-- [`Server`](https://github.com/Spiceroad-Online/server)
-  - `🖥️ Server Manager` ![Version](https://img.shields.io/github/v/release/Spiceroad-Online/server?style=flat-square) [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+- [`Server`](https://github.com/Spiceroad-Online/server) ![Version](https://img.shields.io/github/v/release/Spiceroad-Online/server?style=flat-square) [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager&style=flat-square)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+  - `🖥️ Server Manager` - Advanced tools for seamless server management.
 - [`Client`](https://github.com/Spiceroad-Online/client)
-  - `🎮 Game Client`
+  - `🎮 Game Client` - A revamped launcher for an enhanced user experience.
 - [`Website`](https://github.com/Spiceroad-Online/web-portal)
   - `🌐 Official Website`
 - [`Other`](https://github.com/orgs/Spiceroad-Online/repositories)

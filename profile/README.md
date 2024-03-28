@@ -1,10 +1,9 @@
 # 🌍 Welcome to Spiceroad Online 🌍
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-darkgreen.svg)](https://github.com/Spiceroad-Online#-how-to-contribute)
-![License](https://img.shields.io/badge/license-GPL-green.svg)
-![Followers](https://img.shields.io/github/followers/spiceroad-online)
-![GitHub followers](https://img.shields.io/github/followers/spiceroad-online?link=https%3A%2F%2Fgithub.com%2FSpiceroad-Online)
-[![Donate](https://img.shields.io/badge/5%24-5ddca3?style=social&label=%F0%9F%90%8F%20Buy%20me%20a%20RAM&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque&link=https%3A%2F%2Fwww.buymeacoffee.com%2FMitzesque)](https://www.buymeacoffee.com/Mitzesque)
+[![License](https://img.shields.io/badge/license-GPL-green.svg)](#)
+[![GitHub followers](https://img.shields.io/github/followers/spiceroad-online)](https://github.com/Spiceroad-Online)
+[![Donate](https://img.shields.io/badge/5%24-5ddca3?style=social&label=%F0%9F%90%8F%20Buy%20me%20a%20RAM)](https://www.buymeacoffee.com/Mitzesque)
 
 Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the mystique of the ancient Silk Road. Explore vast landscapes, engage in thrilling combats, and immerse yourself in the rich culture and history that our game offers. Our GitHub is the heart of our development, showcasing the magic behind the scenes.
 

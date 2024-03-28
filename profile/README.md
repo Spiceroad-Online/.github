@@ -15,15 +15,15 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 ## 🌳 Components
 
 - [`Server`](https://github.com/Spiceroad-Online/server)
-  - `🖥️ Server Manager` [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml) - Advanced tools for seamless server management.
+  - `🖥️ Server Manager` [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
 - [`Client`](https://github.com/Spiceroad-Online/client)
-  - `🎮 Game Client` - Your portal to the Spiceroad world.
-- [`Website`](#)
-  - `🌐 Official Website` - Learn more about Spiceroad Online.
-- [`Other`](#)
-  - `🔧 Additional Tools` - Other essential tools and utilities.
+  - `🎮 Game Client`
+- [`Website`](https://github.com/Spiceroad-Online/web-portal)
+  - `🌐 Official Website`
+- [`Other`](https://github.com/orgs/Spiceroad-Online/repositories)
+  - `🔧 Additional Tools`
 
-## 🛠️ Built With
+## 🛠️ Built with
 
 - ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-ff69b4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,16 +34,7 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 
 New to Spiceroad Online development? Get started by checking the README file in each repository for setup instructions and contribution guidelines. Jump in and help us build an epic gaming experience!
 
-## 🤝 How to Contribute
-
-Whether you're fixing bugs, adding features, or just giving suggestions, we welcome all forms of contributions. Check our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to make your mark.
-
-## 🗣️ Join the Conversation
-
-- Public Community: [![Join our Discord](https://img.shields.io/discord/0000000000000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
-- Development Community: [![Join our Development Discord](https://img.shields.io/discord/0000000000000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WGZ4jxPR8X)
-
-## Current Development & Plans
+## ⚒️ Current Development & Plans
 
 - `🎮 New Game Launcher` - A revamped launcher for an enhanced user experience.
 - `🖥️ New Server Manager` - Advanced tools for seamless server management.
@@ -52,6 +43,17 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 
 - `💼 New Job System` - Expanding the horizons of in-game professions.
 - `🕌 New Arabia Class` - Introducing a new class with unique abilities and lore.
+
+## 🤝 How to Contribute
+
+Whether you're fixing bugs, adding features, or just giving suggestions, we welcome all forms of contributions. Check our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to make your mark.
+
+## 🗣️ Join the Conversation
+
+- ### `Public Community`
+  [![Join our Discord](https://img.shields.io/discord/1207644486168084542.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
+- ### `Development Community`
+  [![Join our Development Discord](https://img.shields.io/discord/1222735908562931793.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WGZ4jxPR8X)
 
 ## 📜 License
 

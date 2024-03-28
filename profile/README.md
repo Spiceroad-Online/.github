@@ -14,7 +14,7 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 
 ## Components
 
-- `🖥️ Server Manager` [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+- `🖥️ Server Manager` [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)]
 
 ## 🛠️ Build With
 

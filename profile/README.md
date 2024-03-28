@@ -1,7 +1,7 @@
 # 🌍 Welcome to Spiceroad Online 🌍
 
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-darkgreen.svg)
+![License](https://img.shields.io/badge/license-GPL-green.svg)
 
 Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the mystique of the ancient Silk Road. Explore vast landscapes, engage in thrilling combats, and immerse yourself in the rich culture and history that our game offers. Our GitHub is the heart of our development, showcasing the magic behind the scenes.
 
@@ -15,7 +15,7 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 ## 🌳 Components
 
 - [`Server`](https://github.com/Spiceroad-Online/server)
-  - `🖥️ Server Manager` [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+  - `🖥️ Server Manager` ![Version](https://img.shields.io/github/v/release/Spiceroad-Online/server?style=flat-square) [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
 - [`Client`](https://github.com/Spiceroad-Online/client)
   - `🎮 Game Client`
 - [`Website`](https://github.com/Spiceroad-Online/web-portal)
@@ -55,13 +55,13 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 - ### `Development Community`
   [![Join our Development Discord](https://img.shields.io/discord/1222735908562931793.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WGZ4jxPR8X)
 
+## 🌟 Show Your Support
+
+![Stars](https://img.shields.io/github/stars/Spiceroad-Online/server?style=social) [![Buy us a coffee](https://img.shields.io/badge/Buy%20us%20a%20coffee-Donate-orange.svg)](YourKo-fiLink)
+
 ## 📜 License
 
 Distributed under the [MIT License](LICENSE). See `LICENSE` for more information.
-
-## 🌟 Show Your Support
-
-Give us a ⭐ if you like what we're doing!
 
 ## 📫 Contact
 

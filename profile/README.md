@@ -12,11 +12,18 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 - `📈 Complex Economy & Trade System` reflecting the real Silk Road
 - `👥 Vibrant Community` of adventurers and developers
 
-## Components
+## 🌳 Components
 
-- `🖥️ Server Manager` [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
+- [`Server`](https://github.com/Spiceroad-Online/server)
+  - `🖥️ Server Manager` [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml) - Advanced tools for seamless server management.
+- [`Client`](https://github.com/Spiceroad-Online/client)
+  - `🎮 Game Client` - Your portal to the Spiceroad world.
+- [`Website`](#)
+  - `🌐 Official Website` - Learn more about Spiceroad Online.
+- [`Other`](#)
+  - `🔧 Additional Tools` - Other essential tools and utilities.
 
-## 🛠️ Build With
+## 🛠️ Built With
 
 - ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-ff69b4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,9 +40,8 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 
 ## 🗣️ Join the Conversation
 
-Our community lives on Discord! Join us for discussions, insights, and sneak peeks into upcoming features.
-
-[![Join our Discord](https://img.shields.io/discord/0000000000000000.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
+- Public Community: [![Join our Discord](https://img.shields.io/discord/0000000000000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
+- Development Community: [![Join our Development Discord](https://img.shields.io/discord/0000000000000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WGZ4jxPR8X)
 
 ## Current Development & Plans
 
@@ -49,7 +55,7 @@ Our community lives on Discord! Join us for discussions, insights, and sneak pee
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the [MIT License](LICENSE). See `LICENSE` for more information.
 
 ## 🌟 Show Your Support
 
@@ -57,8 +63,8 @@ Give us a ⭐ if you like what we're doing!
 
 ## 📫 Contact
 
-For major questions and partnerships, email us at [contact@spiceroadonline.com](mailto:contact@spiceroadonline.com).
+For major questions and partnerships, email us at [contact@spiceroad.online](mailto:contact@spiceroad.online).
 
 ---
 
-🌐 Visit us at [www.spiceroadonline.com](http://www.spiceroadonline.com) to start your adventure.
+🌐 Visit us at [www.spiceroad.online](http://www.spiceroad.online) to start your adventure.

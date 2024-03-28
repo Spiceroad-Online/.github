@@ -57,7 +57,7 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 
 ## 🌟 Show Your Support
 
-![Stars](https://img.shields.io/github/stars/Spiceroad-Online/server?style=social) [![Buy us a coffee](https://img.shields.io/badge/Buy%20us%20a%20coffee-Donate-orange.svg)](YourKo-fiLink)
+![Followers](https://img.shields.io/github/followers/spiceroad-online) [![Buy us a coffee](https://img.shields.io/badge/Buy%20us%20a%20coffee-Donate-orange.svg)](YourKo-fiLink)
 
 ## 📜 License
 

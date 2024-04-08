@@ -1,7 +1,7 @@
 # 🌍 Welcome to Spiceroad Online 🌍
 
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-darkgreen.svg)](https://github.com/Spiceroad-Online#-how-to-contribute)
-[![License](https://img.shields.io/badge/license-GPL-green.svg)](#)
+[![Contributions welcome](https://img.shields.io/badge/contributions-closed-darkred.svg)](https://github.com/Spiceroad-Online#-how-to-contribute)
+[![License](https://img.shields.io/badge/license-SRUL-yellow.svg)](#)
 
 Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the mystique of the ancient Silk Road. Explore vast landscapes, engage in thrilling combats, and immerse yourself in the rich culture and history that our game offers. Our GitHub is the heart of our development, showcasing the magic behind the scenes.
 
@@ -17,13 +17,12 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 
 ## 🌳 Components
 
-- [![Server](https://img.shields.io/badge/Server-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/server) ![Version](https://img.shields.io/github/v/release/Spiceroad-Online/server?style=flat-square) [![Server Manager](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml/badge.svg?branch=main&label=Server%20Manager&style=flat-square)](https://github.com/Spiceroad-Online/server/actions/workflows/build-main.yml)
-
+- [![Server](https://img.shields.io/badge/Server-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/server)
   - `🖥️ Server Manager` - Advanced tools for seamless server management.
 - [![Client](https://img.shields.io/badge/Client-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/client)
   - `🎮 Game Client` - A revamped launcher for an enhanced user experience.
 - [![Website](https://img.shields.io/badge/Website-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/web-portal)
-  - `🌐 Official Website`
+  - `🌐 Web Portal`
 - [![Other](https://img.shields.io/badge/Other-3c3c3c?style=flat-square)
 ](https://github.com/orgs/Spiceroad-Online/repositories)
   - `🔧 Additional Tools`
@@ -55,10 +54,10 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 
 ## 🗣️ Join the Conversation
 
-- ### `Public Community`
+- ### `Discord Community`
   [![Join our Discord](https://img.shields.io/discord/1207644486168084542.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
-- ### `Development Community`
-  [![Join our Development Discord](https://img.shields.io/discord/1222735908562931793.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WGZ4jxPR8X)
+
+  Are you a contributor? Ask a moderator to give you the Contirbutor role on our Discord server!
 
 
 ## 📜 License

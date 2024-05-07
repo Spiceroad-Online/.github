@@ -12,7 +12,7 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 
 - `🌐 Massive Open World` to explore
 - `⚔️ Dynamic Combat System` for thrilling battles
-- `📈 Complex Economy & Trade System` reflecting the real Silk Road
+- `📈 Complex Economy & Trade System` reflecting [The Ancient Silk Road](https://en.wikipedia.org/wiki/Silk_Road)
 - `👥 Vibrant Community` of adventurers and developers
 
 ## 🌳 Components

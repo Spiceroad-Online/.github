@@ -18,35 +18,34 @@ Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the 
 ## 🌳 Components
 
 - [![Server](https://img.shields.io/badge/Server-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/server)
-  - `🖥️ Server Manager` - Advanced tools for seamless server management.
+    - `🖥️ Server Manager` - Advanced tools for seamless server management.
 - [![Client](https://img.shields.io/badge/Client-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/client)
-  - `🎮 Game Client` - A revamped launcher for an enhanced user experience.
+    - `📦 Assets` — Official game client and launcher assets
+    - `🕹️ Apps` — User-facing apps (Launcher, Installer, etc)
+    - `🛠️ Tools` — Utilities for client and asset management (PK2Tools, IPInput, DDJViewer, Converters, etc)
+    - See the client [README](https://github.com/Spiceroad-Online/client) for full details.
 - [![Website](https://img.shields.io/badge/Website-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/web-portal)
-  - `🌐 Web Portal`
+    - `🌐 Web Portal`
 - [![Other](https://img.shields.io/badge/Other-3c3c3c?style=flat-square)
-](https://github.com/orgs/Spiceroad-Online/repositories)
-  - `🔧 Additional Tools`
+  ](https://github.com/orgs/Spiceroad-Online/repositories)
+    - `🔧 Additional Tools`
 
 ## 🛠️ Built with
 
 - ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-ff69b4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-00599C.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+## 🎉 Releases
+
+- `📦 Installer` — Modern WinUI 3 installer for Spiceroad Online
+- `🎮 Launcher` — Modern WinUI 3 launcher for Spiceroad Online
+- `🛠️ PK2Tools` — Official PK2 archive tools (extract, pack, convert)
+- `🖥️ Server Manager` — Server management application
 
 ## 🚀 Quick Start
 
 New to Spiceroad Online development? Get started by checking the README file in each repository for setup instructions and contribution guidelines. Jump in and help us build an epic gaming experience!
-
-## ⚒️ Current Development & Plans
-
-- `🎮 New Game Launcher` - A revamped launcher for an enhanced user experience.
-- `🖥️ New Server Manager` - Advanced tools for seamless server management.
-
-## 🔮 Future Plans
-
-- `💼 New Job System` - Expanding the horizons of in-game professions.
-- `🕌 New Arabia Class` - Introducing a new class with unique abilities and lore.
 
 ## 🤝 How to Contribute
 
@@ -55,10 +54,10 @@ Whether you're fixing bugs, adding features, or just giving suggestions, we welc
 ## 🗣️ Join the Conversation
 
 - ### `Discord Community`
-  [![Join our Discord](https://img.shields.io/discord/1207644486168084542.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
 
-  Are you a contributor? Ask a moderator to give you the Contirbutor role on our Discord server!
+    [![Join our Discord](https://img.shields.io/discord/1207644486168084542.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
 
+    Are you a contributor? Ask a moderator to give you the Contirbutor role on our Discord server!
 
 ## 📜 License
 

@@ -2,62 +2,46 @@
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-closed-darkred.svg)](https://github.com/Spiceroad-Online#-how-to-contribute)
 [![License](https://img.shields.io/badge/license-SRUL-yellow.svg)](#)
-
-Embark on an epic journey with **Spiceroad Online**, an MMORPG that revives the mystique of the ancient Silk Road. Explore vast landscapes, engage in thrilling combats, and immerse yourself in the rich culture and history that our game offers. Our GitHub is the heart of our development, showcasing the magic behind the scenes.
-
 [![GitHub followers](https://img.shields.io/github/followers/spiceroad-online)](https://github.com/Spiceroad-Online)
 [![Donate](https://img.shields.io/badge/5%24-5ddca3?style=social&label=%F0%9F%90%8F%20Buy%20me%20a%20RAM)](https://www.buymeacoffee.com/Mitzesque)
 
-## 🎮 Game Features
+**Spiceroad Online** is a Silkroad-inspired MMORPG project built around the spirit of trade routes, caravans, guilds, conflict, exploration, and community.
 
-- `🌐 Massive Open World` to explore
-- `⚔️ Dynamic Combat System` for thrilling battles
-- `📈 Complex Economy & Trade System` reflecting [The Ancient Silk Road](https://en.wikipedia.org/wiki/Silk_Road)
-- `👥 Vibrant Community` of adventurers and developers
+Our goal is to bring the old Silkroad feeling into a cleaner modern experience, while keeping the mystique of the ancient Silk Road at the center of the game world.
 
-## 🌳 Components
+## 🎮 What we are building
 
-- [![Server](https://img.shields.io/badge/Server-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/server)
-    - `🖥️ Server Manager` - Advanced tools for seamless server management.
-- [![Client](https://img.shields.io/badge/Client-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/client)
-    - `📦 Assets` — Official game client and launcher assets
-    - `🕹️ Apps` — User-facing apps (Launcher, Installer, etc)
-    - `🛠️ Tools` — Utilities for client and asset management (PK2Tools, IPInput, DDJViewer, Converters, etc)
-    - See the client [README](https://github.com/Spiceroad-Online/client) for full details.
-- [![Website](https://img.shields.io/badge/Website-3c3c3c?style=flat-square)](https://github.com/Spiceroad-Online/web-portal)
-    - `🌐 Web Portal`
-- [![Other](https://img.shields.io/badge/Other-3c3c3c?style=flat-square)
-  ](https://github.com/orgs/Spiceroad-Online/repositories)
-    - `🔧 Additional Tools`
+- `🌐 A Silkroad-inspired world` shaped by travel, trade, danger, and discovery.
+- `⚔️ PvE and PvP conflict` built around adventurers, guilds, and server-wide competition.
+- `📈 Trade and economy systems` inspired by the historical Silk Road.
+- `👥 A community-first server` for players who miss the classic MMORPG feeling.
+
+## 🧭 Public surfaces
+
+- [`www.spiceroad.online`](http://www.spiceroad.online) — main public landing page.
+- [`platform.spiceroad.online`](https://platform.spiceroad.online) — Spiceroad platform and resource hub.
+- [Discord Community](https://discord.gg/HWn4NxYQ56) — announcements, discussion, and community contact.
 
 ## 🛠️ Built with
 
 - ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-ff69b4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-00599C.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🎉 Releases
+## 🚀 Status
 
-- `📦 Installer` — Modern WinUI 3 installer for Spiceroad Online
-- `🎮 Launcher` — Modern WinUI 3 launcher for Spiceroad Online
-- `🛠️ PK2Tools` — Official PK2 archive tools (extract, pack, convert)
-- `🖥️ Server Manager` — Server management application
+Spiceroad Online is under active private development. Public repositories and releases will appear here when they are ready to be shared.
 
-## 🚀 Quick Start
+## 🤝 How to contribute
 
-New to Spiceroad Online development? Get started by checking the README file in each repository for setup instructions and contribution guidelines. Jump in and help us build an epic gaming experience!
+Public contributions are currently closed while the project is being shaped internally.
 
-## 🤝 How to Contribute
-
-Whether you're fixing bugs, adding features, or just giving suggestions, we welcome all forms of contributions. Check our [CONTRIBUTING](profile/CONTRIBUTING.md) for guidelines on how to make your mark.
+Suggestions, feedback, and community discussion are still welcome through Discord.
 
 ## 🗣️ Join the Conversation
 
-- ### `Discord Community`
-
-    [![Join our Discord](https://img.shields.io/discord/1207644486168084542.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
-
-    Are you a contributor? Ask a moderator to give you the Contirbutor role on our Discord server!
+[![Join our Discord](https://img.shields.io/discord/1207644486168084542.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWn4NxYQ56)
 
 ## 📜 License
 

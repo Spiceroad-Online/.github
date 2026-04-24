@@ -22,16 +22,21 @@ Our goal is to bring the old Silkroad feeling into a cleaner modern experience, 
 - [`platform.spiceroad.online`](https://platform.spiceroad.online) — Spiceroad platform and resource hub.
 - [Discord Community](https://discord.gg/HWn4NxYQ56) — announcements, discussion, and community contact.
 
+## 🚀 Roadmap and releases
+
+Spiceroad Online is under active private development. Public releases will appear here when they are ready.
+
+Current focus:
+
+- `🌐 Public website` — a lightweight landing page for the game and community.
+- `🏪 Spiceroad Platform` — a resource hub for Spiceroad products, addons, guides, and server-owner tools.
+- `📦 Installer` — a modern player-facing installer for the official client package.
+- `🎮 Launcher` — a modern launcher for updates, game start, and future player-facing features.
+- `🧰 Internal tooling` — server, client, and asset tools used to maintain the game safely.
+
 ## 🛠️ Built with
 
-- ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-ff69b4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/SQL_Server-00599C.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-## 🚀 Status
-
-Spiceroad Online is under active private development. Public repositories and releases will appear here when they are ready to be shared.
+C# / .NET, C++, SQL Server, PHP / Laravel, Astro, TypeScript, and Lit.
 
 ## 🤝 How to contribute
 

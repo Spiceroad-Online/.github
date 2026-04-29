@@ -18,7 +18,7 @@ Our goal is to bring the old Silkroad feeling into a cleaner modern experience, 
 
 ## 🧭 Public surfaces
 
-- [`www.spiceroad.online`](http://www.spiceroad.online) — main public landing page.
+- [`spiceroad.online`](https://www.spiceroad.online) — main public landing page.
 - [`platform.spiceroad.online`](https://platform.spiceroad.online) — Spiceroad platform and resource hub.
 - [Discord Community](https://discord.gg/HWn4NxYQ56) — announcements, discussion, and community contact.
 
